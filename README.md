@@ -48,7 +48,7 @@ Este repositorio reúne mi formación académica y certificaciones profesionales
 
 | Certificación | Institución | Estado |
 |---|---|---|
-| Oracle Billing and Revenue Management (BRM) | Oracle | 🟢 Completado |
+| Billing and Revenue Management (BRM) | Oracle | 🟢 Completado |
 | Linux/Unix Shell Scripting, Python and Perl | Udemy | 🟢 Completado |
 
 ---
